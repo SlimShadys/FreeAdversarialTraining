@@ -1,0 +1,6 @@
+# Ignore datasets
+FashionMNIST/
+IntelImageClassification/
+
+# Ignore saved checkpoints
+save_path/
